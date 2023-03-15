@@ -1,0 +1,17 @@
+Store Transactions Full Analysis
+We will analysis whole dataset to get good insights from it !
+This is a store in US, people order lot of orders from all states in US.
+Consists of 1952 rows and 27 columns.
+Questions to answer: 
+1. What is the distribution of days the order takes depends on it's priority ?!
+2. What is the most effective delivery  way ?!
+3. There is a relationship between priority and profit ?!
+4. Which category sells more and in which state ?!
+5. What is the number of order in each region and it's profit ?!
+6. In which month we have best sales ?!
+7. In which month we have least sales ?!
+8. What is the number of orders depends on it's priority and it's profit ?!
+9. Which state has most profit ?!
+10. Which state has least profit ?!
+11. Which city in most profit state has most profit ?!
+12. Which city in least profit state has least profit ?!
